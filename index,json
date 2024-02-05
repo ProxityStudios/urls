@@ -1,0 +1,8 @@
+{
+	"starterRepositories": {
+		"typescript-starter": "https://github.com/ProxityStudios/typescript-starter",
+		"javascript-starter": "https://github.com/ProxityStudios/javascript-starter",
+		"express-api-starter-ts": "https://github.com/ProxityStudios/express-api-starter-ts",
+		"discord-bot-starter-ts": "https://github.com/ProxityStudios/discord-bot-starter-ts"
+	}
+}
